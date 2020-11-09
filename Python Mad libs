@@ -1,0 +1,9 @@
+colour = input("What is your favorite colour ?")
+vegetable = input("Which is your favorite flower ? ")
+game = input("Which is your favorite game ?")
+
+if vegetable == "Cauliflower":
+    print(vegetable, "is a bad vegetable!")
+
+print(colour, "is a good colour!")
+print(game, "is a brilliant game!")
